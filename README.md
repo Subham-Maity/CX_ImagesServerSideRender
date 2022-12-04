@@ -1,2 +1,1 @@
-# CX_ImagesServerSideRender
-Render Images Package for CX
+# Custom Package For CX
