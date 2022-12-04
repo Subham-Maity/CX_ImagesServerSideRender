@@ -4,7 +4,7 @@
   "description": "CodeXam Image View",
   "author": "Subham Maity",
   "license": "MIT",
-  "repository": "https://github.com/MinJieLiu/react-photo-view.git",
+
   "scripts": {
     "dev": "pnpm -C ./packages/example dev",
     "build": "pnpm -C ./packages/react-photo-view build && pnpm -C ./packages/example build",
